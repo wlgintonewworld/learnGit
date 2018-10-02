@@ -1,2 +1,4 @@
-十一放假看完GIT
-今天时第一天：弄完远程库的连接
+十一学习计划
+fist：over
+sec:学习Git remote
+
