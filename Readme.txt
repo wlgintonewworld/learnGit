@@ -5,3 +5,4 @@ sec:学习Git remote
     分支合并1-主
     分支合并-fen
     禁用快速合并模式
+    修复bug
