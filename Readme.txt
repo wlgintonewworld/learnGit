@@ -7,4 +7,3 @@ sec:学习Git remote
     禁用快速合并模式
     修复bug
     推送分支dev
-  在github上修改
